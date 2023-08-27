@@ -41,6 +41,20 @@
       "priority": "high",
       "user_email": "mario@netninja.dev",
       "id": "4hJqpVD"
+    },
+    {
+      "title": "My new ticket",
+      "body": "Blah blah blah",
+      "priority": "high",
+      "user_email": "mario@netninja.dev",
+      "id": "LRfZ1_f"
+    },
+    {
+      "title": "Another new ticket",
+      "body": "Blah blah blah",
+      "priority": "low",
+      "user_email": "mario@netninja.dev",
+      "id": "xqLB_ge"
     }
   ]
 }
