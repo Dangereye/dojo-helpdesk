@@ -8,7 +8,7 @@ import AuthForm from '../AuthForm';
 export default function SignUp() {
   const [error, setError] = useState('');
 
-  const router = useRouter;
+  const router = useRouter();
 
   const handleSubmit = async (e, email, password) => {
     e.preventDefault();
